@@ -1,0 +1,4 @@
+-	Implementing linear regression on the diabetes dataset to make predictions and observe the effect of each feature on the predictor variable.
+-	Developing logistic regression and multiclass classification on the iris dataset. 
+-	Implementing neural networks using PyTorch and classifying the iris dataset. 
+-	Train a mixture of Gaussian models to cluster and classify Peterson and Barney’s dataset of vowel formant frequencies using PyTorch.
